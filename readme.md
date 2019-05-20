@@ -7,8 +7,9 @@ label shadow
 5 到引擎目录 CocosCreator\resources\engine 下 执行
 
 ##没安装过 gulp 先安装工具##
-npm install -g gulp
-npm install
+  npm install -g gulp
+  npm install
 
 执行构建
-gulp build
+  gulp build
+  
